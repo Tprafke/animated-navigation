@@ -4,7 +4,7 @@
 
 ## Description
 
-A simple website built using Javascript, HTML, & CSS. This website is a demo for animating a websites navigation menu.
+A simple website built using JavaScript, HTML, & CSS. This website is a demo for animating a websites navigation menu.
 
 
 ## Languages & Technologies
